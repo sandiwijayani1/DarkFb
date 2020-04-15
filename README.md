@@ -1,4 +1,4 @@
-# DarkFb 
+# DarkFb #SUBSCRIBE #CHANNEL #SANDI W
 $pkg update && upgrade
 $pkg install git
 $ pkg install python
